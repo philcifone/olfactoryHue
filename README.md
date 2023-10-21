@@ -12,6 +12,8 @@ It includes:
 Features to add:
 - drop-down color pattern selector (i.e complementary, tertiary, etc.)
 
+- add/save color groups
+
 - save list upon refresh?
 
 - export list option?
