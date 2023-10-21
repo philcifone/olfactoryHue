@@ -1,21 +1,3 @@
-/* OLD OLD OLD
- *
- *
- * // Get references to the button and content area
-const colorChangeButton = document.getElementById("colorChangeButton");
-const contentArea = document.getElementById("contentArea");
-
-// Add a click event listener to the button
-colorChangeButton.addEventListener("click", function () {
-    // Generate a random background color
-    const randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);
-    
-    // Change the background color of the content area
-    contentArea.style.backgroundColor = randomColor;
-}); 
-
-
-OLD OLD OLD */
 
 // Get references to the button, content area, color code elements, and lock button
 const colorChangeButton = document.getElementById("colorChangeButton");
